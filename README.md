@@ -1,2 +1,4 @@
 # demo
-This is file name demo
+This is  my first Git repository.
+Author - Tafizur Rahman
+
